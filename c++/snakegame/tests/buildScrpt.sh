@@ -1,1 +1,0 @@
-/home/capinemoo/repos/betterCmakeScript/FTXUIbuildScrpt/buildScrpt.sh
